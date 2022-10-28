@@ -53,7 +53,7 @@ Resultat från formeln delas in i olika *viktklasser*.
 
 Skriv en program som tar en persons ```längd i cm``` samt ```vikt i kg``` och skriver ut en BMI-klassificering.
 
-## Switch 
+## Switch (Fördjupning)
 **Weekdays**
 Gör ett program som tar ett nummer ( 1-7 ) och skriver ut vilken veckodag numret motsvarar. Ex. 1 = måndag, 3 = untzdag.
 Om numret inte motsvarar någon veckodag skall programmet skriva ut ```false```.
